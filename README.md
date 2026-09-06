@@ -11,4 +11,5 @@ A structured progression through foundational Python concepts from basic syntax 
 3. Defining Functions
 4. Conditional Statements and Relational Operators
 5. Logical Operators and Nested Conditional Statements
+6. While Loops
 
