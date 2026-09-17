@@ -15,4 +15,5 @@ A structured progression through foundational Python concepts from basic syntax 
 7. Sequences - Lists and Strings
 8. String and List Methods
 9. Traversing Lists and Strings Using the for...in loop
+10. Using the for...in loop with the range() Function
 
