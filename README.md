@@ -17,4 +17,5 @@ A structured progression through foundational Python concepts from basic syntax 
 9. Traversing Lists and Strings Using the for...in loop
 10. Using the for...in loop with the range() Function
 11. More about Defining Functions
+12. Tuples
 
