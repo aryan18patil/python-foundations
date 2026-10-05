@@ -21,5 +21,5 @@ def process_barchart(filename):
             
     return tuple(frequency_list)
 
-filename = "barchart1.txt"
+filename = "079_file_reading_02_barchart1.txt"
 print(f"Letter frequencies from {filename}: {process_barchart(filename)}")
