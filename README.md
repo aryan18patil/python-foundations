@@ -18,4 +18,5 @@ A structured progression through foundational Python concepts from basic syntax 
 10. Using the for...in loop with the range() Function
 11. More about Defining Functions
 12. Tuples
+13. File Reading
 
