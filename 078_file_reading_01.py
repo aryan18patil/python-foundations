@@ -23,7 +23,7 @@ def get_line_averages(filename):
             
     return avg_list
 
-filename = "InputFile1.txt"
+filename = "078_file_reading_01_InputFile1.txt"
 line_averages = get_line_averages(filename)
 for i in range(len(line_averages)):
     print(f"{i + 1}. Average = {line_averages[i]:.2f}")
