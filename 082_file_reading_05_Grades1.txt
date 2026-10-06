@@ -1,0 +1,12 @@
+0001	Ohlheiser	Wilda	6	1	1
+0002	Shaldybin	Chayma	35	38	37
+0003	Barenys	Makeda	19	19	21
+0004	Cunillera	Rodovica	36	38	37
+0005	Krestel	Aina	19	18	18
+0006	Gortz	Jessi	44	41	40
+0007	Valentoo	Tornike	37	36	36
+0008	Karteshkin	Donte	33	34	33
+0009	Joya	Delfin	42	41	41
+0010	Baldovi	Tadea	37	35	36
+0011	Cuchi	Eluska	44	42	42
+0012	Turukhin	Antoinette	36	39	33
