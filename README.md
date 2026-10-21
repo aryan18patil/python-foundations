@@ -20,4 +20,5 @@ A structured progression through foundational Python concepts from basic syntax 
 12. Tuples
 13. File Reading
 14. File Writing
+15. Dictionaries
 
