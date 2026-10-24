@@ -21,4 +21,5 @@ A structured progression through foundational Python concepts from basic syntax 
 13. File Reading
 14. File Writing
 15. Dictionaries
+16. Nested Lists and Nested Loops
 
